@@ -6,7 +6,7 @@
 
 Добавьте пакет в свой composer 
 ```
-composer require andrey-vasin/laravel-auth-bitrix
+composer require harlamoff/laravel-auth-bitrix
 ```
 Пакет имеет зависомость от andrey-vasin/laravel-hashing-bitrix, поэтому надо 
 исправить конфигурационный файл hashing.php,

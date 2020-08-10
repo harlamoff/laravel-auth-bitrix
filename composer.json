@@ -1,5 +1,5 @@
 {
-    "name": "andrey-vasin/laravel-auth-bitrix",
+    "name": "harlamoff/laravel-auth-bitrix",
     "type": "library",
     "keywords": ["laravel", "auth", "bitrix", "login", "reg", "registration"],
     "license": "GPL-3.0-or-later",
@@ -9,9 +9,10 @@
         }
     ],
     "require": {
-        "andrey-vasin/laravel-hashing-bitrix": "^1.0",
+
+
         "guzzlehttp/guzzle": "^6.3",
-        "illuminate/auth": "^5.8"
+        "illuminate/auth": "^5.8|^6|^7|^8"
     },
     "autoload": {
         "psr-4": {
